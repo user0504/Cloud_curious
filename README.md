@@ -1,1 +1,1 @@
-# Gitcurious
+# GitCurious
